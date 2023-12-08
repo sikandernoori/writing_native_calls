@@ -5,3 +5,6 @@ Demonstration of performing native calls from flutter side to Android and IOS us
 ## Useful links
 
     - https://docs.flutter.dev/platform-integration/platform-channels?tab=type-mappings-swift-tab
+
+## Bonus
+    - https://docs.flutter.dev/packages-and-plugins/developing-packages
